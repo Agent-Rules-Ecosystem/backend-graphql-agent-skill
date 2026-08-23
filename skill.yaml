@@ -1,7 +1,0 @@
-name: backend-graphql-agent-skill
-version: 1.0.0
-author: Agent-Rules-Ecosystem
-description: "GraphQL API schema design and resolver pattern skill."
-compatible_rules:
-  - backend-agent-rules
-dependencies: []
