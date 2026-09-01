@@ -1,4 +1,4 @@
-# Flutter Agent Rules — Codex Adapter
+# Backend GraphQL Agent Skill — Codex Adapter
 
 > Codex (OpenAI) lee este archivo automáticamente como `AGENTS.md`.
 > Las reglas viven en `.agents/`; **no duplicar aquí**.

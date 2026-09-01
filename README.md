@@ -27,8 +27,22 @@
 
 ---
 
-## 📦 Instalación
+## ⚡ Quick Start
 
+**1. Instala la skill como submódulo**
 ```bash
-git submodule add https://github.com/xolotl-hub/backend-graphql-agent-skill.git .skill/backend-graphql-agent-skill
+git submodule add git@github.com:Agent-Rules-Ecosystem/backend-graphql-agent-skill.git .skill/backend-graphql-agent-skill
 ```
+
+**2. Activa la skill con `$boot`**
+```text
+$boot
+```
+
+**3. Ejecuta el primer comando de la skill**
+```text
+$work agregar query GraphQL para listado de usuarios
+```
+
+---
+
