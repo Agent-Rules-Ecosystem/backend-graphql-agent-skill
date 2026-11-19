@@ -22,6 +22,6 @@ La autenticación debe resolverse UNA SOLA VEZ en la función `context`:
 // }
 //
 // Resolver solo accede: resolver(parent, args, { user }) => {
-//   if (!user) throw new AuthenticationError()
+//   if (!user) throw new GraphQLError (Apollo Server v4+: `new GraphQLError('Unauthenticated', { extensions: { code: 'UNAUTHENTICATED' } })`)()
 // }
 ```

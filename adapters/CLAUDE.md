@@ -1,4 +1,3 @@
-# Backend GraphQL Agent Skill adapter
+# backend-graphql-agent-skill — Claude Adapter
 
-Read and follow `.agents/AGENTS.md` before responding or editing.
-Project state lives in `overview/`. Do not duplicate rules here.
+When `$gql` is invoked or working in this domain, read `.skill/backend-graphql-agent-skill/AGENTS.md` and `.skill/backend-graphql-agent-skill/SKILL.md`.

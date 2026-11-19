@@ -1,7 +1,7 @@
 ---
-description: Backend GraphQL Agent Skill bootstrap
-alwaysApply: true
+description: backend-graphql-agent-skill domain guidance ($gql)
+globs: ["**/*.graphql", "**/*.gql", "**/resolvers/**"]
+alwaysApply: false
 ---
 
-Read and follow `.agents/AGENTS.md` before responding or editing.
-Project state lives in `overview/`. Do not duplicate rules here.
+Read and follow `.skill/backend-graphql-agent-skill/AGENTS.md` and `.skill/backend-graphql-agent-skill/SKILL.md`.

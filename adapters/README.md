@@ -1,12 +1,3 @@
-# Adaptadores
+# Adaptadores — backend-graphql-agent-skill
 
-Copiar solo adaptador que reconozca agente:
-
-| Agente | Plantilla | Destino habitual |
-|---|---|---|
-| Codex | `AGENTS.md` | `AGENTS.md` |
-| Claude | `CLAUDE.md` | `CLAUDE.md` |
-| Gemini / Antigravity | `GEMINI.md` | `GEMINI.md` |
-| Cursor | `cursor-rule.mdc` | `.cursor/rules/backend-graphql-agent-skill.mdc` |
-
-Cada archivo solo direcciona a `.agents/AGENTS.md`.
+Copiar solo el adaptador que reconozca el agente. Todos direccionan a `.skill/backend-graphql-agent-skill/AGENTS.md` y `SKILL.md` (trigger `$gql`).

@@ -1,4 +1,3 @@
-# Backend GraphQL Agent Skill adapter
+# backend-graphql-agent-skill — Gemini / Antigravity Adapter
 
-Read and follow `.agents/AGENTS.md` before responding or editing.
-Project state lives in `overview/`. Do not duplicate rules here.
+Trigger `$gql`: cargar `.skill/backend-graphql-agent-skill/AGENTS.md`, `.skill/backend-graphql-agent-skill/SKILL.md` y `.skill/backend-graphql-agent-skill/core/commands.md`.
